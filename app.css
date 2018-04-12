@@ -17,7 +17,7 @@ body {
 }
 
 body {
-	background-image: url(../game.jpg);
+	background-image: url("game.jpg");
 	font-size: 16px;
 }
 
